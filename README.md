@@ -24,4 +24,15 @@
 ![image](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/40c6de64-128b-4ca4-ad1d-c51c0ac23835)
 
 
-#
+# film
+![WhatsApp Image 2024-01-16 at 19 37 47_de37878c](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/2aeed6f9-9686-492d-a7ce-4e6160ea7212)
+
+
+# sianida
+![sianida](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/377b3f02-5fc1-4fb6-903b-9d9b2c4ba044)
+
+
+# fibonanci
+![image](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/a0ea376b-9e92-413e-9aba-2258aff68d71)
+
+
