@@ -33,6 +33,8 @@
 
 
 # fibonanci
-![image](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/a0ea376b-9e92-413e-9aba-2258aff68d71)
+![fibo](https://github.com/SahrulRidwansyah/UASmobile/assets/115526901/432e1f01-8aff-4a4c-924f-d48e6d75cbda)
 
+# laporan pdf
 
+[Mobile.pdf](https://github.com/SahrulRidwansyah/UASmobile/files/13964062/Mobile.pdf)
